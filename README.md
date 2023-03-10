@@ -1,6 +1,6 @@
 # BottomNavFlutter 👌
 
-A new Flutter project.
+A new Flutter project by Juan Pablo Ortiz Ballina 👑.
 
 ## Getting Started
 
